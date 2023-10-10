@@ -17,7 +17,7 @@ I am committed to becoming a Java Full-stack Developer!
 <br>
 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tomasz-galazka-junior-python-developer/)<br>
 <br>
-⚡ Fun fact: I find great joy in programmer’s jokes and memes!
+⚡ Fun fact: I am a sucker for programmer’s jokes and memes!
 <br>
 <br>
 
