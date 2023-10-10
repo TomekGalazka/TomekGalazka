@@ -15,7 +15,7 @@ I am committed to becoming a Java Full-stack Developer!
 <br>
 💬 Feel free to ask me about Java, Spring Boot, Hibernate, PostgreSQL, TypeScript, React, or any other technologies in my expertise. I’m always open to discussions about cutting-edge technologies and best practices.<br>
 <br>
-📫 You can connect with me on GitHub: https://github.com/TomekGalazka<br>
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tomasz-galazka-junior-python-developer/)<br>
 <br>
 ⚡ Fun fact: I find great joy in programmer’s jokes and memes!
 <br>
