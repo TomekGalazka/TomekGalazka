@@ -1,5 +1,5 @@
 # Hello there! I'm Tomek 👋
-I am committed to becoming a Java Full-stack Developer!
+I am committed to becoming a Junior Full-stack Developer!
 <br>
 <br>
 
