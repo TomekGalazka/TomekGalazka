@@ -1,11 +1,11 @@
 # Hello there! I'm Tomek 👋
-I am committed to becoming a Junior Full-stack Developer!
+I am committed to becoming a Junior Java Full-stack Developer!
 <br>
 <br>
 
 
 ## 💫 About Me:
-🔭 I am currently dedicated to securing my first commercial experience as a Junior Full Stack Developer.<br>
+🔭 I am currently dedicated to securing my first commercial experience as a Junior Java Full Stack Developer.<br>
 <br>
 🌱 My focus remains on refining my skills in Java and Spring Boot for robust backend server development, while also delving deeper into TypeScript for responsive React frontend applications.<br>
 <br>
